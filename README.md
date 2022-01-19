@@ -1,1 +1,3 @@
 # humble-begginings
+
+I LIKE NOTHING ABOUT JAVASCRIPT
